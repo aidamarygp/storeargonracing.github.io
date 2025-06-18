@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tienda Online - Argon Racing Mods</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Argon Racing Mods</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+  <main>
+    <p>Modificaciones y piezas personalizadas para motos de carrera.</p>
+    <section class="productos">
+      <div class="product">
+        <img src="img/culata.png" alt="Modificación de Culata" width="300">
+        <h2>Modificación de Culata</h2>
+        <p>Precio: A convenir (Contáctanos)</p>
+        <a href="contacto.html?servicio=culata" class="buy-btn">Solicitar Cotización</a>
+      </div>
+      <div class="product">
+        <img src="img/biela.png" alt="Biela personalizada" width="300">
+        <h2>Biela Personalizada</h2>
+        <p>Precio: A convenir (Contáctanos)</p>
+        <a href="contacto.html?servicio=biela" class="buy-btn">Solicitar Cotización</a>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Argon Racing Mods. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
